@@ -1,0 +1,2037 @@
+
+<!DOCTYPE html>
+<html amp class="no-js">
+  <head>
+      <meta charset="utf-8">
+      <link rel="canonical" href="https://www.babastudio.com/training/kursus-pemograman-web-dan-php">
+      <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+      <!-- <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Article headline",
+      "image": [
+        "thumbnail1.jpg"
+      ],
+      "datePublished": "2015-02-05T08:00:00+08:00"
+    }
+    </script>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+    <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript> -->
+      
+  <!-- Google Tag Manager -->
+  <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5L7RTRZ');</script>
+  <!-- End Google Tag Manager -->
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Kursus Web & PHP",
+  "image": [ "https://www.babastudio.com/assets/front_page/img/baba/banner-v2.jpg",
+    "https://www.babastudio.com/slicing/assets/internet-marketing/Banner-Kursus%20Digital%20Marketing-01.webp"
+   ],
+  "description": "Kursus PHP & Pemrograman Web lainnya | BabaStudio.com",
+  "sku": "-",
+  "mpn": "-",
+  "brand": {
+    "@type": "Thing",
+    "name": "BabaStudio"
+  },
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4",
+      "bestRating": "5"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Amalul Ahli"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "1388"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.babastudio.com/training/kursus-pemograman-web-dan-php#daftar",
+    "priceCurrency": "Rp",
+    "price": "3500000",
+    "priceValidUntil": "2019-08-05",
+    "itemCondition": "https://schema.org/UsedCondition",
+    "availability": "InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Executive Objects"
+    }
+  }
+}
+</script>
+
+  
+    <title>Kursus Pemograman PHP | Kursus Website & Jasa Pembuatan Website</title>
+  <meta name="description" content="Kursus Web, Digital Marketing & Toko Online Terbaik di Jakarta, Serpong dan Bekasi"/>
+  <meta name="keywords" content="Kursus Web, Digital Marketing & Toko Online Terbaik di Jakarta, Serpong dan Bekasi"/>  
+        <!-- <title>4 Minggu Jago Bikin Website Dari Nol | BabaStudio | Kursus Web & Digital Marketing Dengan Sertifikat Internasional (21 Ribu Alumni & 15 Tahun Berdiri)</title>
+      <meta name="description" content="Kursus Web, Digital Marketing & Toko Online Terbaik di Jakarta, Serpong dan Bekasi"/>
+      <meta name="keywords" content="Kursus Web, Digital Marketing & Toko Online Terbaik di Jakarta, Serpong dan Bekasi"/>  -->
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="google-site-verification" content="6bsz2x1E-OgwkmNYrUtDjqXgiXzZVSCWfZfThKEGKLY">
+
+      <!-- Faficon -->
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+      <link rel="shortcut icon" type="image/x-icon" href="https://www.babastudio.com/slicing/assets/front_page/img/icon/favicon.ico">
+      <link rel="icon" type="image/png" href="https://www.babastudio.com/assets/front_page/img/icon/favicon_515ad23b30404b883798e5bebafbcc45.png">
+      <link rel="apple-touch-icon" href="https://www.babastudio.com/slicing/assets/front_page/img/icon/favicon_515ad23b30404b883798e5bebafbcc45.png">
+      <!-- End Faficon -->
+
+      <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+      <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <link href="https://www.babastudio.com/slicing/assets/style.css" rel="stylesheet">
+        <link href="https://www.babastudio.com/slicing/assets/responsive-style.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://www.babastudio.com/slicing/assets/slick.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.x.x/css/swiper.min.css">
+
+        <script async src="https://www.babastudio.com/slicing/assets/jquery.min.js"></script>
+
+
+  <!-- Google Tag Manager (noscript)
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5L7RTRZ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+   End Google Tag Manager (noscript) -->
+  
+  <style type="text/css">
+          .dropdown-menu{
+            background-color: #0a4671;
+          }
+          .dropdown-menu li a{
+            color: white;
+            margin-top: 10px;
+          }
+    .learn-you .slick-arrow {
+           background-color: white;
+           padding: 10px;
+           border-radius: 50%;
+    }
+    .logo-liputan{
+            text-align: center;
+            vertical-align: middle;
+    }
+        </style>
+  </head>
+
+
+  <body style="background-color: white;">
+    <!-- noscript body area -->
+    <noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5L7RTRZ"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+    </noscript>
+    <header>
+      <nav class="top-bar">
+        <div class="collapse navbar-collapse">
+        <div class="container">
+          <div class="row white margin-top-10t">
+            <div class="col-lg-6 col-md-4 navbar-header page-scroll">
+              <ul class="nav-left">
+                <li><a href="tel:02153664008" target="_blank"><img data-src="https://www.babastudio.com/slicing/assets/call.webp" class="lazy"> Call Us: (021) 5366 4008 & </a><a href="tel:02128565339">(021) 2856 5339</a></li>
+            <li>
+              <a class="" target="_blank" title="Konsultasi Gratis!" href="https://api.whatsapp.com/send?phone=6281398130236"><img width="20px" data-src="https://img.icons8.com/color/48/000000/whatsapp.png" class="lazy"> 0813 9813 0236</a>
+            </li>
+              </ul>
+            </div>
+            <div class="col-lg-6 col-md-8" style="font-size: 0.8em; margin-top: 5px;">
+              <ul class="nav-right ">
+                <li>
+                  <button class="btn btn-warning btn-sm">
+                    Free E-learning
+                  </button>
+                </li>
+                <li>
+                  <a href="https://www.babastudio.com/about-us" class="white">Tentang Kami</a>
+                </li>
+                <li>
+                  <a href="https://academy.babastudio.com/login" class="white">Login</a>
+                </li>
+                <li style="margin:0px 10px; font-size: 1.3em">|</li>
+                <li>
+                  <a href="#" style="font-size: 1.3em;">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                  <a href="#" style="font-size: 1.3em;">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                  <a href="#" style="font-size: 1.3em;">
+                    <i class="fab fa-google-plus-g"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        </div>
+      </nav>
+      <nav id="header-menu" class="navbar navbar-default" style="border:0px solid #031826;">
+        <!--menu-->
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar top-bar"></span>
+              <span class="icon-bar middle-bar"></span>
+              <span class="icon-bar bottom-bar"></span>
+            </button>
+            <a href="https://www.babastudio.com/kursus-online-hybrid/" class="navbar-brand"><img src="https://babastudio.com/assets/static2_assets/assets/baba-logo.png" class="logo img-responsive lazy"></a>
+          </div>
+          <!--navigation-->
+          <div class="collapse navbar-collapse margin-top-50t" id="navigation">
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                <a href="https://www.babastudio.com/kursus-online-hybrid/">
+                    Beranda
+                </a>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="https://www.babastudio.com/kursus-online-hybrid/#">Paket Kursus
+                <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                            <li><a target="_blank" href="https://www.babastudio.com/training/kursus-web-design">KURSUS WEB DESIGN</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/training/kursus-website">KURSUS WEBSITE</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/training/kursus-pemograman-web-dan-php">KURSUS PEMOGRAMAN PHP</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/training/kursus-internet-marketing">KURSUS INTERNET MARKETING</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/kursus-seo">KURSUS SEO</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/kursus-desain-grafis">KURSUS DESAIN GRAFIS</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/kursus-animasi-drawing">KURSUS ANIMASI DRAWING</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/kursus-komputer">KURSUS KOMPUTER</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/kursus-flash-animasi">KURSUS FLASH ANIMASI</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/kursus-bisnis-online">KURSUS WEB BISNIS ONLINE</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/kursus-bahasa-pemrograman-untuk-anak-anak">KURSUS PEMOGRAMAN ANAK</a></li>
+                                  <li><a target="_blank" href="https://www.babastudio.com/after-effect">KURSUS AFTER EFFECT</a></li>
+                            </ul>
+              </li>
+              <li>
+                <a href="https://www.babastudio.com/berita" target="_blank">
+                  <span class="label-nav">
+                    Berita
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.babastudio.com/blog" target="_blank">
+                  <span class="label-nav">
+                    Blog
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.babastudio.com/galeri" target="_blank">
+                  <span class="label-nav">
+                    Galeri
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.babastudio.com/kontak">
+                  <span class="label-nav">
+                    Kontak
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <span class="label-nav">
+                    Video Tutorial
+                  </span>
+                </a>
+              </li>
+              <li>
+                <button class="btn btn-primary" style="margin-top: 10px; margin-left: 18px;" data-toggle="modal" data-target="#myModal">
+                  <i class="fas fa-search"></i>
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header><!-- header role="banner" -->
+
+    <!-- Modal -->
+    <div id="myModal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+        <form action="https://www.babastudio.com/kursus-online-hybrid/paket" method="GET" target="_top">
+          <div class="modal-header btn-primary">
+            <button type="button" class="close" data-dismiss="modal">×</button>
+            <h3 class="modal-title">Temukan kursus yang tepat buat kamu disini!</h3>
+          </div>
+          <div class="modal-body">
+            <input type="text" name="search" class="form-control input-lg" placeholder="Kata kunci disini...." required="">
+          </div>
+          <div class="modal-footer">
+            <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i> Cari</button>
+          </div>
+        </form>
+        </div>
+
+      </div>
+    </div>
+
+      
+<section class="slider">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+    <!-- <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    </ol> -->
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+          <img src="https://farm8.staticflickr.com/7814/32425493327_f70ba28c82_b.jpg" alt="Neo Online Baba Learning System - E-Learning BabaStudio.com" style="width:100%; height: auto; display: block;"  class="hide-m">
+                <img src="https://i.imgur.com/TY1d3JP.jpg" alt="Neo Online Baba Learning System - E-Learning BabaStudio.com" style="width:100%; height: auto; display: block;" class="hide-d">
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <!-- <a class="left carousel-control" href="https://www.babastudio.com/kursus-online-hybrid/#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="https://www.babastudio.com/kursus-online-hybrid/#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a> -->
+  </div>
+</section>
+
+
+<section id="liputan">
+  <div class="liputan-atas">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="head-liputan">
+            <h2 style="color: #727272"><span class="sorot">Telah diliput</span> oleh </h2>
+          </div>
+        </div>
+        <div class="col-sm-12 slide-liputan">
+                      <div class="col-sm-6 col-md-3">
+              <div class="logo-liputan">
+                <img alt="" src="https://www.babastudio.com/slicing/assets/01.png" >
+              </div>
+            </div>
+                      <div class="col-sm-6 col-md-3">
+              <div class="logo-liputan">
+                <img alt="" src="https://www.babastudio.com/slicing/assets/mnc.png" >
+              </div>
+            </div>
+                      <div class="col-sm-6 col-md-3">
+              <div class="logo-liputan">
+                <img alt="" src="https://www.babastudio.com/slicing/assets/tvone.png" >
+              </div>
+            </div>
+                      <div class="col-sm-6 col-md-3">
+              <div class="logo-liputan">
+                <img alt="" src="https://www.babastudio.com/slicing/assets/kompas.png" >
+              </div>
+            </div>
+                      <div class="col-sm-6 col-md-3">
+              <div class="logo-liputan">
+                <img alt="" src="https://www.babastudio.com/slicing/assets/yahoo.png" >
+              </div>
+            </div>
+                      <div class="col-sm-6 col-md-3">
+              <div class="logo-liputan">
+                <img alt="" src="https://www.babastudio.com/slicing/assets/jakarta-pos.png" >
+              </div>
+            </div>
+                      <div class="col-sm-6 col-md-3">
+              <div class="logo-liputan">
+                <img alt="" src="https://www.babastudio.com/slicing/assets/detikcom.png" >
+              </div>
+            </div>
+                      <div class="col-sm-6 col-md-3">
+              <div class="logo-liputan">
+                <img alt="" src="https://www.babastudio.com/slicing/assets/techinasia.png" >
+              </div>
+            </div>
+                      <div class="col-sm-6 col-md-3">
+              <div class="logo-liputan">
+                <img alt="" src="https://www.babastudio.com/slicing/assets/nettv.png" >
+              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="kenalan">
+  <div class="row">
+    <div class="col-md-12 col-lg-12 col-12 kenalan-header ">
+      <div class="container">
+        <h1>Kenalan yuk dengan salah satu dari 133 ribu <br> murid Kursus Pemrogramman</h1>
+      </div>
+      <div class="arrow-down"></div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row kenalan-content">
+      <div class="col-lg-6 col-md-12 col-12 left">
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/rnvMdDL_SbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="col-lg-6 col-md-12 col-12 right">
+        <h1><span class="sorot">Andy F.Noya</span> menginterview dua alumni Kursus Pemrogramman</h1>
+        <p>Dua orang alumni babastudio di interview oleh Andy F.Noya mengenai pengalaman kursus di babastudio. saksikan lebih langkap pada video ini.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="karya">
+  <h1 align="center">Mau tau, seperti apa hasil karya murid Kursus Pemrogramman? <br>
+  (meski tanpa latar belakang IT)</h1>
+  <div class="container">
+    <div class="row slide-karya">
+               <div class="col col-sm-4 padding-40m">
+          <div class="box-karya">
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/tiketcom.jpg">
+            </div>
+            <div class="karya-website">
+              <p>www.tiket.com</p>
+            </div>
+            <div class="icon">
+              <img src="https://www.babastudio.com/slicing/assets/siskafelicia.png">
+            </div>
+            <div class="karya-desc">
+              <p>Sisca Felicia Berhasil mendesain website Tiket.com 2.0</p>
+            </div>
+          </div>
+         </div>
+               <div class="col col-sm-4 padding-40m">
+          <div class="box-karya">
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/21cineplex.jpg">
+            </div>
+            <div class="karya-website">
+              <p>www.21cineplex.com</p>
+            </div>
+            <div class="icon">
+              <img src="https://www.babastudio.com/slicing/assets/Andi.png">
+            </div>
+            <div class="karya-desc">
+              <p>Andi Muharyo, Berhasil masuk dalam Team Pembuat Website Official Cinema XXI versi awal.</p>
+            </div>
+          </div>
+         </div>
+               <div class="col col-sm-4 padding-40m">
+          <div class="box-karya">
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/bridestory.jpg">
+            </div>
+            <div class="karya-website">
+              <p>www.bridestory.com</p>
+            </div>
+            <div class="icon">
+              <img src="https://www.babastudio.com/slicing/assets/fadil.png">
+            </div>
+            <div class="karya-desc">
+              <p>Fadil setelah belajar di babastudio berhasil menjadi FrontEnd developer di bridestory dan telah mendirikan startupnya sendiri.</p>
+            </div>
+          </div>
+         </div>
+          </div>
+    <div class="row">
+      <div class="col-md-12 text-center lihat">
+        <a href="#" class="btn btn-warning">Lihat Prestasi Lainnya disini <img src="https://www.babastudio.com/slicing/assets/enter.png" class="enter-btn"></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="learningmap">
+  <h1 align="center">8 Level Learning Map Babastudio</h1>
+  <small>Silahkan Geser Untuk Melihat Langkah-Langkah Learning Map</small>
+  <div class="container">
+    <div class="row slide-learningmap">
+              <div class="col col-sm-4 padding-40m">
+          <div class="box-learningmap">
+            <div class="learningmap-title">
+              <div class="row">
+                <div class="col-md-9 col-xs-9 left">
+                  <h3>Interview Basic Level Test</h3>
+                </div>
+                <div class="col-md-3 col-xs-3 right">
+                  <p class="no">1</p>
+                  <div class="arrow-right"></div>
+                </div>
+              </div>
+            </div>
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/interview-basic.png">
+            </div>
+            <div class="learningmap-desc">
+              <p>Pertama, akan ada interview untuk mengetahui materi apa yang perlu kamu pelajari pertama kali. Sehingga kamu dapat menguasai keahlian impian kamu dengan mudah dan cepat meskipun mulai dari Nol.</p>
+            </div>
+          </div>
+        </div>
+              <div class="col col-sm-4 padding-40m">
+          <div class="box-learningmap">
+            <div class="learningmap-title">
+              <div class="row">
+                <div class="col-md-9 col-xs-9 left">
+                  <h3>Class Room learning</h3>
+                </div>
+                <div class="col-md-3 col-xs-3 right">
+                  <p class="no">2</p>
+                  <div class="arrow-right"></div>
+                </div>
+              </div>
+            </div>
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/class-room.jpg">
+            </div>
+            <div class="learningmap-desc">
+              <p>Metode pembelajaran di Baba Studio adalah Problem Based learnig. Dimana kamu akan dihadapkan suatu problem kemudian mencari solusinya. Sehingga Skill yang kamu peroleh akan bertahan lama.</p>
+            </div>
+          </div>
+        </div>
+              <div class="col col-sm-4 padding-40m">
+          <div class="box-learningmap">
+            <div class="learningmap-title">
+              <div class="row">
+                <div class="col-md-9 col-xs-9 left">
+                  <h3>Real Time Online Support 8 hours/day</h3>
+                </div>
+                <div class="col-md-3 col-xs-3 right">
+                  <p class="no">3</p>
+                  <div class="arrow-right"></div>
+                </div>
+              </div>
+            </div>
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/realtime-online.jpg">
+            </div>
+            <div class="learningmap-desc">
+              <p>Dalam Proses belajar, kamu akan menemukan banyak kesulitan. Bisa jadi saat mengerjakan project di rumah. Atau tiba tiba mendapatkan tugas yg sulit dari kantor atau pelanngan. Kamu tetap akan mendapatkan bimbingan dari para instruktur profesional secara realtime kapanpun dan dimanapun kamu berada.</p>
+            </div>
+          </div>
+        </div>
+              <div class="col col-sm-4 padding-40m">
+          <div class="box-learningmap">
+            <div class="learningmap-title">
+              <div class="row">
+                <div class="col-md-9 col-xs-9 left">
+                  <h3>After Course support</h3>
+                </div>
+                <div class="col-md-3 col-xs-3 right">
+                  <p class="no">4</p>
+                  <div class="arrow-right"></div>
+                </div>
+              </div>
+            </div>
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/after-course.jpg">
+            </div>
+            <div class="learningmap-desc">
+              <p>Setelah selesai belajar, kamu tidak akan dilepas begitu saja. Bukan hanyna dibuatkan group WA. Di Babastudio kamu akan diberikan Workshop sebulan 1 kali bertemu dengan para CEO, Founder dan Expert dalam bidang digital. Yang akan berbagi perkembangan teknologi terbaru untuk kamu.</p>
+            </div>
+          </div>
+        </div>
+              <div class="col col-sm-4 padding-40m">
+          <div class="box-learningmap">
+            <div class="learningmap-title">
+              <div class="row">
+                <div class="col-md-9 col-xs-9 left">
+                  <h3>Flexible Campus</h3>
+                </div>
+                <div class="col-md-3 col-xs-3 right">
+                  <p class="no">5</p>
+                  <div class="arrow-right"></div>
+                </div>
+              </div>
+            </div>
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/flexible-campus.jpg">
+            </div>
+            <div class="learningmap-desc">
+              <p>Kampus babastudio bukanlah Frienchise, sehingga selain secara kualitas terkontrol lebih baik. Kamu dapat berpindah pindah kampus sesukanya. Misal dihari biasa kamu lebih memilih Kampus babastudio yang dekat dengan kantor. Dan diakhir pekan kamu dapat memilih kampus yang dekat dengan rumah.</p>
+            </div>
+          </div>
+        </div>
+              <div class="col col-sm-4 padding-40m">
+          <div class="box-learningmap">
+            <div class="learningmap-title">
+              <div class="row">
+                <div class="col-md-9 col-xs-9 left">
+                  <h3>Workshop LFM (Learning From Master)</h3>
+                </div>
+                <div class="col-md-3 col-xs-3 right">
+                  <p class="no">6</p>
+                  <div class="arrow-right"></div>
+                </div>
+              </div>
+            </div>
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/workshop-lfm.jpg">
+            </div>
+            <div class="learningmap-desc">
+              <p>Di Babastudio kami percaya bahwa selain belajar didalam kelas dan praktek. Kamu perlu bertemu dengan mereka yang sudah sukses lebih dulu. Sehingga bisa tertular energy dan koneksi dari mereka. Untuk itu setiap bulan kamu bisa bertemu dengan para CEO, Founder & Experts di Perusahaan digital ternama.</p>
+            </div>
+          </div>
+        </div>
+              <div class="col col-sm-4 padding-40m">
+          <div class="box-learningmap">
+            <div class="learningmap-title">
+              <div class="row">
+                <div class="col-md-9 col-xs-9 left">
+                  <h3>One on on Consultation</h3>
+                </div>
+                <div class="col-md-3 col-xs-3 right">
+                  <p class="no">7</p>
+                  <div class="arrow-right"></div>
+                </div>
+              </div>
+            </div>
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/consultation.jpg">
+            </div>
+            <div class="learningmap-desc">
+              <p>Ada kalanya kamu menemukan kendala, problem atau tantangan dalam belajar. Dan terkadang belajar dikelas belum cukup utk mengatasi masalah itu. Untuk itu kami seminggu sekali menyediakan <b>One On One consultation</b> bersama expert sampai dengan founder babastudio.</p>
+            </div>
+          </div>
+        </div>
+          </div>
+  </div>
+</section>
+<div class="container">
+  <div class="row learningmap">
+    <div class="col-md-12">
+      <div class="arrow-down"></div>
+    </div>
+  </div>
+</div>
+
+<section id="fasilitas">
+  <h1 align="center">Fasilitas yang kamu Dapatkan</h1>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-xs-12 padding-40m hide-m" style="width: 100%;">
+        <div class="fasilitas-img">
+          <img src="https://www.babastudio.com/slicing/assets/new-section-d.jpg" class="img-responsive" alt="Fasilitas Babastudio">
+        </div>
+      </div>
+      <div class="col-md-12 col-xs-12 padding-40m hide-d" style="width: 100%;">
+        <div class="fasilitas-img">
+          <img src="https://www.babastudio.com/slicing/assets/new-section-m.jpg" class="img-responsive" alt="Fasilitas Babastudio">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="materi">
+  <h1 align="center">Ini materi-materi yang akan kamu pelajari</h1>
+  <div class="container">
+    <div class="hide-m">
+      <div class="row">
+        <div class="col-md-4 item">
+          <div class="materi-circle">
+            <i class="fas fa-file-alt"></i>
+          </div>
+          <div class="materi-title">
+            <h3>Classrom Full Stack</h3>
+          </div>
+          <div class="line-horizontal"></div>
+          <div class="bullet-left"></div>
+        </div>
+        <div class="col-md-4 item">
+          <div class="materi-circle">
+            <i class="fas fa-file-alt"></i>
+          </div>
+          <div class="materi-title">
+            <h3>Workshop Bulanan Bersama CEO Founder Perusahaan Digital</h3>
+          </div>
+          <div class="line-horizontal" style="top: 18%;">
+          </div>
+        </div>
+        <div class="col-md-4 item">
+          <div class="materi-circle">
+            <i class="fas fa-file-alt"></i>
+          </div>
+          <div class="materi-title">
+            <h3>Start Up & Unicorn Visit</h3>
+          </div>
+          <div class="line-horizontal width-93p">
+          </div>
+          <div class="bullet-right"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col col-sm-4">
+          <div class="box-materi">
+            <div class="image">
+              <img src="https://www.babastudio.com/slicing/assets/fullstak.jpg">
+            </div>
+            <div class="materi-desc">
+              <p>Pemrogramman PHP Codeigniter, Pemrogramman PHP Laravel, Pemrogramman NodeJS, Pemrogramman Ruby, Pemrogramman Phyton. Kamu bisa memilih bahasa pemrogramman yang paling cocok.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col col-sm-4">
+          <div class="box-materi">
+            <div class="image">
+             <!-- <img src="https://www.babastudio.com/slicing/assets/workshop.jpg"> -->
+       <div class="embed-responsive  embed-responsive-4by3">
+    <iframe class="embed-responsive-item" width="343" height="216" src="https://www.youtube.com/embed/TNOoGGre-qQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       </div>
+            </div>
+            <div class="materi-desc">
+              <p>kamu bisa belajar secara langsung bersama para CEO, Founder dan Experrt Digital dari Perusahaan-perusahaan ternama.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col col-sm-4">
+        <div class="box-materi">
+          <div class="image">
+      <div class="embed-responsive  embed-responsive-4by3">
+                <iframe class="embed-responsive-item" width="343" height="216" src="https://www.youtube.com/embed/Kta0WYuJSMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             </div>
+            <!-- <img src="https://www.babastudio.com/slicing/assets/startup.jpg"> -->
+          </div>
+          <div class="materi-desc">
+            <p>kamu akan mengunjungi Perusahaam teknologi ternama. Termasuk Unicorn utk mengalami bagaimana rasanya bekerja di sana dan mengetahui Energy perusahaan Impian kamu.</p>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+    <div class="hide-d">
+      <div class="slide-materi">
+        <div class="slide">
+          <div class="row">
+            <div class="col-xs-12 item">
+              <div class="materi-circle">
+                <i class="fas fa-file-alt"></i>
+              </div>
+              <div class="materi-title">
+                <h3>Classrom Full Stack</h3>
+              </div>
+              <div class="line-horizontal1"></div>
+              <div class="bullet-left"></div>
+              <div class="bullet-right"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="box-materi">
+                <div class="image">
+                  <img src="https://www.babastudio.com/slicing/assets/fullstak.jpg">
+                </div>
+                <div class="materi-desc">
+                  <p>Modul yang akan dipelajari, HTML & CSS, Photoshop, UI & UX Design, jQuery, Javascript, Bootstrap, PHP Framework (CI & Laravel) kamu bisa memilih bahasa pemroggraman sendiri.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="slide">
+          <div class="row">
+            <div class="col-xs-12 item">
+              <div class="materi-circle">
+                <i class="fas fa-file-alt"></i>
+              </div>
+              <div class="materi-title">
+                <h3>Workshop Bulanan Bersama CEO Founder Perusahaan Digital</h3>
+              </div>
+              <div class="line-horizontal1" style="top: 16%;"></div>
+              <div class="bullet-left"></div>
+              <div class="bullet-right"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="box-materi">
+                <div class="image">
+                  <!-- <img src="https://www.babastudio.com/slicing/assets/workshop.jpg"> -->
+      <div class="embed-responsive  embed-responsive-4by3">
+                  <iframe class="embed-responsive-item" width="343" height="216" src="https://www.youtube.com/embed/TNOoGGre-qQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                </div>
+                <div class="materi-desc">
+                  <p>kamu bisa belajar secara langsung bersama para CEO, Founder dan Experrt Digital dari Perusahaan-perusahaan ternama.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="slide">
+          <div class="row">
+            <div class="col-xs-12 item">
+              <div class="materi-circle">
+                <i class="fas fa-file-alt"></i>
+              </div>
+              <div class="materi-title">
+                <h3>Start Up & Unicorn Visit</h3>
+              </div>
+              <div class="line-horizontal1"></div>
+              <div class="bullet-left"></div>
+              <div class="bullet-right"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="box-materi">
+                <div class="image">
+                  <!-- <img src="https://www.babastudio.com/slicing/assets/startup.jpg"> -->
+<div class="embed-responsive  embed-responsive-4by3">
+<iframe class="embed-responsive-item" width="343" height="216" src="https://www.youtube.com/embed/Kta0WYuJSMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+                </div>
+                <div class="materi-desc">
+                  <p>kamu akan mengunjungi Perusahaam teknologi ternama. Termasuk Unicorn utk mengalami bagaimana rasanya bekerja di sana dan mengetahui Energy perusahaan Impian kamu.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="harga">
+  <h1 align="center">Harga Mulai dari 7.5 juta, <br> Mau beasiswa s/d 4 juta ?</h1>
+  <div class="container">
+    <div class="text-center beasiswa">
+      <a href="#daftar" class="btn btn-warning">Ya, Mau beasiswa kursus Rp 4 juta <img src="https://www.babastudio.com/slicing/assets/enter.png" class="enter-btn"></a>
+    </div>
+  </div>
+</section>
+
+<section id="daftar">
+  <h1 align="center">Pendaftaran Beasiswa s/d 4 juta + bonus akses kursus online gratis senilai 399rb</h1>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 left">
+  <a href="">
+    <img width="100%" src="https://www.babastudio.com/slicing/assets/what-leader-say.webp" alt="" class="img-fluid" >
+  </a>
+    </div>
+      <div class="col-md-6 right">
+        <h4>Nama Peserta Test &amp; Penerima Beasiswa</h4>
+
+<!-- <form> -->
+    <div class="form-group">
+    <input type="text" class="form-control" id="namalengkap" placeholder="Nama Lengkap">
+    </div>
+    <div class="form-group">
+    <input type="email" class="form-control" id="email_add" placeholder="Email kamu">
+    </div>
+    <div class="form-group">
+    <input type="text" class="form-control" id="telp" placeholder="Nomor Handphone">
+    </div>
+    <div class="form-group">
+    <select class="form-control" id="materis">
+        <option value="" selected>-- Isi Trial Khusus yang kamu inginkan --</option>
+        <option value="Website">Kursus Web site & Web Design</option>
+        <option value="Animasi">Kursus Animasi</option>
+        <option value="Internet Marketing">Kursus Internet Marketing</option>
+        <option value="SEO">Kursus SEO (Search Engine Optimation)</option>
+        <option value="Kursus Komputer">Kursus Komputer</option>
+        <option value="Kursus Design Grafis">Kursus Design Grafis</option>
+        <option value="Kursus Flash Animasi">Kursus Flash Animasi</option>
+        <option value="Kursus PHP">Kursus PHP</option>
+        <option value="Kursus Game">Kursus Game</option>
+    </select>
+    </div>
+    <div class="form-group">
+        <select class="form-control" id="tinggal">
+            <option value="" selected>-- Isi Tempat Tinggal kamu --</option>
+                                                <optgroup label="ACEH">
+                                                                        <option value='1R01'>Kabupaten Aceh Barat</option>
+                                        <option value='1R02'>Kabupaten Aceh Barat Daya</option>
+                                        <option value='1R03'>Kabupaten Aceh Besar</option>
+                                        <option value='1R04'>Kabupaten Aceh Jaya</option>
+                                        <option value='1R05'>Kabupaten Aceh Selatan</option>
+                                        <option value='1R06'>Kabupaten Aceh Singkil</option>
+                                        <option value='1R07'>Kabupaten Aceh Tamiang</option>
+                                        <option value='1R08'>Kabupaten Aceh Tengah</option>
+                                        <option value='1R09'>Kabupaten Aceh Tenggara</option>
+                                        <option value='1R10'>Kabupaten Aceh Timur</option>
+                                        <option value='1R11'>Kabupaten Aceh Utara</option>
+                                        <option value='1R12'>Kabupaten Bener Meriah</option>
+                                        <option value='1R13'>Kabupaten Bireuen</option>
+                                        <option value='1R14'>Kabupaten Gayo Lues</option>
+                                        <option value='1R15'>Kabupaten Nagan Raya</option>
+                                        <option value='1R16'>Kabupaten Pidie</option>
+                                        <option value='1R17'>Kabupaten Pidie Jaya</option>
+                                        <option value='1R18'>Kabupaten Simeulue</option>
+                                        <option value='1R19'>Kota Banda Aceh</option>
+                                        <option value='1R20'>Kota Langsa</option>
+                                        <option value='1R21'>Kota Lhokseumawe</option>
+                                        <option value='1R22'>Kota Sabang</option>
+                                        <option value='1R23'>Kota Subulussalam</option>
+                                                            </optgroup>
+                                <optgroup label="BALI">
+                                                                        <option value='2R01'>Kabupaten Badung</option>
+                                        <option value='2R02'>Kabupaten Bangli</option>
+                                        <option value='2R03'>Kabupaten Buleleng</option>
+                                        <option value='2R04'>Kabupaten Gianyar</option>
+                                        <option value='2R05'>Kabupaten Jembrana</option>
+                                        <option value='2R06'>Kabupaten Karangasem</option>
+                                        <option value='2R07'>Kabupaten Klungkung</option>
+                                        <option value='2R08'>Kabupaten Tabanan</option>
+                                        <option value='2R09'>Kota Denpasar</option>
+                                                            </optgroup>
+                                <optgroup label="BANTEN">
+                                                                        <option value='3R01'>Kabupaten Lebak</option>
+                                        <option value='3R02'>Kabupaten Pandeglang</option>
+                                        <option value='3R03'>Kabupaten Serang</option>
+                                        <option value='3R04'>Kabupaten Tangerang</option>
+                                        <option value='3R05'>Kota Cilegon</option>
+                                        <option value='3R06'>Kota Serang</option>
+                                        <option value='3R07'>Kota Tangerang</option>
+                                        <option value='3R08'>Kota Tangerang Selatan</option>
+                                                            </optgroup>
+                                <optgroup label="BENGKULU">
+                                                                        <option value='4R01'>Kabupaten Bengkulu Selatan</option>
+                                        <option value='4R02'>Kabupaten Bengkulu Tengah</option>
+                                        <option value='4R03'>Kabupaten Bengkulu Utara</option>
+                                        <option value='4R04'>Kabupaten Kaur</option>
+                                        <option value='4R05'>Kabupaten Kepahiang</option>
+                                        <option value='4R06'>Kabupaten Lebong</option>
+                                        <option value='4R07'>Kabupaten Mukomuko</option>
+                                        <option value='4R08'>Kabupaten Rejang Lebong</option>
+                                        <option value='4R09'>Kabupaten Seluma</option>
+                                        <option value='4R10'>Kota Bengkulu</option>
+                                                            </optgroup>
+                                <optgroup label="D.l. YOGYAKARTA">
+                                                                        <option value='5R01'>Kabupaten Bantul</option>
+                                        <option value='5R02'>Kabupaten Gunungkidul</option>
+                                        <option value='5R03'>Kabupaten Kulon Progo</option>
+                                        <option value='5R04'>Kabupaten Sleman</option>
+                                        <option value='5R05'>Kota Yogyakarta</option>
+                                                            </optgroup>
+                                <optgroup label="DKI JAKARTA">
+                                                                        <option value='6R01'>Kabupaten Administrasi Kepulauan Seribu</option>
+                                        <option value='6R02'>Kota Administrasi Jakarta Barat</option>
+                                        <option value='6R03'>Kota Administrasi Jakarta Pusat</option>
+                                        <option value='6R04'>Kota Administrasi Jakarta Selatan</option>
+                                        <option value='6R05'>Kota Administrasi Jakarta Timur</option>
+                                        <option value='6R06'>Kota Administrasi Jakarta Utara</option>
+                                                            </optgroup>
+                                <optgroup label="GORONTALO">
+                                                                        <option value='7R01'>Kabupaten Boalemo</option>
+                                        <option value='7R02'>Kabupaten Bone Bolango</option>
+                                        <option value='7R03'>Kabupaten Gorontalo</option>
+                                        <option value='7R04'>Kabupaten Gorontalo Utara</option>
+                                        <option value='7R05'>Kabupaten Pohuwato</option>
+                                        <option value='7R06'>Kota Gorontalo</option>
+                                                            </optgroup>
+                                <optgroup label="JAMBI">
+                                                                        <option value='8R01'>Kabupaten Batanghari</option>
+                                        <option value='8R02'>Kabupaten Bungo</option>
+                                        <option value='8R03'>Kabupaten Kerinci</option>
+                                        <option value='8R04'>Kabupaten Merangin</option>
+                                        <option value='8R05'>Kabupaten Muaro Jambi</option>
+                                        <option value='8R06'>Kabupaten Sarolangun</option>
+                                        <option value='8R07'>Kabupaten Tanjung Jabung Barat</option>
+                                        <option value='8R08'>Kabupaten Tanjung Jabung Timur</option>
+                                        <option value='8R09'>Kabupaten Tebo</option>
+                                        <option value='8R10'>Kota Jambi</option>
+                                        <option value='8R11'>Kota Sungai Penuh</option>
+                                                            </optgroup>
+                                <optgroup label="JAWA BARAT">
+                                                                        <option value='9R01'>Kabupaten Bandung</option>
+                                        <option value='9R02'>Kabupaten Bandung Barat</option>
+                                        <option value='9R03'>Kabupaten Bekasi</option>
+                                        <option value='9R04'>Kabupaten Bogor</option>
+                                        <option value='9R05'>Kabupaten Ciamis</option>
+                                        <option value='9R06'>Kabupaten Cianjur</option>
+                                        <option value='9R07'>Kabupaten Cirebon</option>
+                                        <option value='9R08'>Kabupaten Garut</option>
+                                        <option value='9R09'>Kabupaten Indramayu</option>
+                                        <option value='9R10'>Kabupaten Karawang</option>
+                                        <option value='9R11'>Kabupaten Kuningan</option>
+                                        <option value='9R12'>Kabupaten Majalengka</option>
+                                        <option value='9R13'>Kabupaten Pangandaran</option>
+                                        <option value='9R14'>Kabupaten Purwakarta</option>
+                                        <option value='9R15'>Kabupaten Subang</option>
+                                        <option value='9R16'>Kabupaten Sukabumi</option>
+                                        <option value='9R17'>Kabupaten Sumedang</option>
+                                        <option value='9R18'>Kabupaten Tasikmalaya</option>
+                                        <option value='9R19'>Kota Bandung</option>
+                                        <option value='9R20'>Kota Banjar</option>
+                                        <option value='9R21'>Kota Bekasi</option>
+                                        <option value='9R22'>Kota Bogor</option>
+                                        <option value='9R23'>Kota Cimahi</option>
+                                        <option value='9R24'>Kota Cirebon</option>
+                                        <option value='9R25'>Kota Depok</option>
+                                        <option value='9R26'>Kota Sukabumi</option>
+                                        <option value='9R27'>Kota Tasikmalaya</option>
+                                                            </optgroup>
+                                <optgroup label="JAWA TENGAH">
+                                                                        <option value='10R01'>Kabupaten Banjarnegara</option>
+                                        <option value='10R02'>Kabupaten Banyumas</option>
+                                        <option value='10R03'>Kabupaten Batang</option>
+                                        <option value='10R04'>Kabupaten Blora</option>
+                                        <option value='10R05'>Kabupaten Boyolali</option>
+                                        <option value='10R06'>Kabupaten Brebes</option>
+                                        <option value='10R07'>Kabupaten Cilacap</option>
+                                        <option value='10R08'>Kabupaten Demak</option>
+                                        <option value='10R09'>Kabupaten Grobogan</option>
+                                        <option value='10R10'>Kabupaten Jepara</option>
+                                        <option value='10R11'>Kabupaten Karanganyar</option>
+                                        <option value='10R12'>Kabupaten Kebumen</option>
+                                        <option value='10R13'>Kabupaten Kendal</option>
+                                        <option value='10R14'>Kabupaten Klaten</option>
+                                        <option value='10R15'>Kabupaten Kudus</option>
+                                        <option value='10R16'>Kabupaten Magelang</option>
+                                        <option value='10R17'>Kabupaten Pati</option>
+                                        <option value='10R18'>Kabupaten Pekalongan</option>
+                                        <option value='10R19'>Kabupaten Pemalang</option>
+                                        <option value='10R20'>Kabupaten Purbalingga</option>
+                                        <option value='10R21'>Kabupaten Purworejo</option>
+                                        <option value='10R22'>Kabupaten Rembang</option>
+                                        <option value='10R23'>Kabupaten Semarang</option>
+                                        <option value='10R24'>Kabupaten Sragen</option>
+                                        <option value='10R25'>Kabupaten Sukoharjo</option>
+                                        <option value='10R26'>Kabupaten Tegal</option>
+                                        <option value='10R27'>Kabupaten Temanggung</option>
+                                        <option value='10R28'>Kabupaten Wonogiri</option>
+                                        <option value='10R29'>Kabupaten Wonosobo</option>
+                                        <option value='10R30'>Kota Magelang</option>
+                                        <option value='10R31'>Kota Pekalongan</option>
+                                        <option value='10R32'>Kota Salatiga</option>
+                                        <option value='10R33'>Kota Semarang</option>
+                                        <option value='10R34'>Kota Surakarta</option>
+                                        <option value='10R35'>Kota Tegal</option>
+                                                            </optgroup>
+                                <optgroup label="JAWA TIMUR">
+                                                                        <option value='11R01'>Kabupaten Bangkalan</option>
+                                        <option value='11R02'>Kabupaten Banyuwangi</option>
+                                        <option value='11R03'>Kabupaten Blitar</option>
+                                        <option value='11R04'>Kabupaten Bojonegoro</option>
+                                        <option value='11R05'>Kabupaten Bondowoso</option>
+                                        <option value='11R06'>Kabupaten Gresik</option>
+                                        <option value='11R07'>Kabupaten Jember</option>
+                                        <option value='11R08'>Kabupaten Jombang</option>
+                                        <option value='11R09'>Kabupaten Kediri</option>
+                                        <option value='11R10'>Kabupaten Lamongan</option>
+                                        <option value='11R11'>Kabupaten Lumajang</option>
+                                        <option value='11R12'>Kabupaten Madiun</option>
+                                        <option value='11R13'>Kabupaten Magetan</option>
+                                        <option value='11R14'>Kabupaten Malang</option>
+                                        <option value='11R15'>Kabupaten Mojokerto</option>
+                                        <option value='11R16'>Kabupaten Nganjuk</option>
+                                        <option value='11R17'>Kabupaten Ngawi</option>
+                                        <option value='11R18'>Kabupaten Pacitan</option>
+                                        <option value='11R19'>Kabupaten Pamekasan</option>
+                                        <option value='11R20'>Kabupaten Pasuruan</option>
+                                        <option value='11R21'>Kabupaten Ponorogo</option>
+                                        <option value='11R22'>Kabupaten Probolinggo</option>
+                                        <option value='11R23'>Kabupaten Sampang</option>
+                                        <option value='11R24'>Kabupaten Sidoarjo</option>
+                                        <option value='11R25'>Kabupaten Situbondo</option>
+                                        <option value='11R26'>Kabupaten Sumenep</option>
+                                        <option value='11R27'>Kabupaten Trenggalek</option>
+                                        <option value='11R28'>Kabupaten Tuban</option>
+                                        <option value='11R29'>Kabupaten Tulungagung</option>
+                                        <option value='11R30'>Kota Batu</option>
+                                        <option value='11R31'>Kota Blitar</option>
+                                        <option value='11R32'>Kota Kediri</option>
+                                        <option value='11R33'>Kota Madiun</option>
+                                        <option value='11R34'>Kota Malang</option>
+                                        <option value='11R35'>Kota Mojokerto</option>
+                                        <option value='11R36'>Kota Pasuruan</option>
+                                        <option value='11R37'>Kota Probolinggo</option>
+                                        <option value='11R38'>Kota Surabaya</option>
+                                                            </optgroup>
+                                <optgroup label="KALIMANTAN BARAT">
+                                                                        <option value='12R01'>Kabupaten Bengkayang</option>
+                                        <option value='12R02'>Kabupaten Kapuas Hulu</option>
+                                        <option value='12R03'>Kabupaten Kayong Utara</option>
+                                        <option value='12R04'>Kabupaten Ketapang</option>
+                                        <option value='12R05'>Kabupaten Kubu Raya</option>
+                                        <option value='12R06'>Kabupaten Landak</option>
+                                        <option value='12R07'>Kabupaten Melawi</option>
+                                        <option value='12R08'>Kabupaten Mempawah</option>
+                                        <option value='12R09'>Kabupaten Sambas</option>
+                                        <option value='12R10'>Kabupaten Sanggau</option>
+                                        <option value='12R11'>Kabupaten Sekadau</option>
+                                        <option value='12R12'>Kabupaten Sintang</option>
+                                        <option value='12R13'>Kota Pontianak</option>
+                                        <option value='12R14'>Kota Singkawang</option>
+                                                            </optgroup>
+                                <optgroup label="KALIMANTAN SELATAN">
+                                                                        <option value='13R01'>Kabupaten Balangan</option>
+                                        <option value='13R02'>Kabupaten Banjar</option>
+                                        <option value='13R03'>Kabupaten Barito Kuala</option>
+                                        <option value='13R04'>Kabupaten Hulu Sungai Selatan</option>
+                                        <option value='13R05'>Kabupaten Hulu Sungai Tengah</option>
+                                        <option value='13R06'>Kabupaten Hulu Sungai Utara</option>
+                                        <option value='13R07'>Kabupaten Kotabaru</option>
+                                        <option value='13R08'>Kabupaten Tabalong</option>
+                                        <option value='13R09'>Kabupaten Tanah Bumbu</option>
+                                        <option value='13R10'>Kabupaten Tanah Laut</option>
+                                        <option value='13R11'>Kabupaten Tapin</option>
+                                        <option value='13R12'>Kota Banjarbaru</option>
+                                        <option value='13R13'>Kota Banjarmasin</option>
+                                                            </optgroup>
+                                <optgroup label="KALIMANTAN TENGAH">
+                                                                        <option value='14R01'>Kabupaten Barito Selatan</option>
+                                        <option value='14R02'>Kabupaten Barito Timur</option>
+                                        <option value='14R03'>Kabupaten Barito Utara</option>
+                                        <option value='14R04'>Kabupaten Gunung Mas</option>
+                                        <option value='14R05'>Kabupaten Kapuas</option>
+                                        <option value='14R06'>Kabupaten Katingan</option>
+                                        <option value='14R07'>Kabupaten Kotawaringin Barat</option>
+                                        <option value='14R08'>Kabupaten Kotawaringin Timur</option>
+                                        <option value='14R09'>Kabupaten Lamandau</option>
+                                        <option value='14R10'>Kabupaten Murung Raya</option>
+                                        <option value='14R11'>Kabupaten Pulang Pisau</option>
+                                        <option value='14R13'>Kabupaten Seruyan</option>
+                                        <option value='14R12'>Kabupaten Sukamara</option>
+                                        <option value='14R14'>Kota Palangka Raya</option>
+                                                            </optgroup>
+                                <optgroup label="KALIMANTAN TIMUR">
+                                                                        <option value='15R01'>Kabupaten Berau</option>
+                                        <option value='15R02'>Kabupaten Kutai Barat</option>
+                                        <option value='15R03'>Kabupaten Kutai Kartanegara</option>
+                                        <option value='15R04'>Kabupaten Kutai Timur</option>
+                                        <option value='15R05'>Kabupaten Mahakam Ulu</option>
+                                        <option value='15R06'>Kabupaten Paser</option>
+                                        <option value='15R07'>Kabupaten Penajam Paser Utara</option>
+                                        <option value='15R08'>Kota Balikpapan</option>
+                                        <option value='15R09'>Kota Bontang</option>
+                                        <option value='15R10'>Kota Samarinda</option>
+                                                            </optgroup>
+                                <optgroup label="KALIMANTAN UTARA">
+                                                                        <option value='16R01'>Kabupaten Bulungan</option>
+                                        <option value='16R02'>Kabupaten Malinau</option>
+                                        <option value='16R03'>Kabupaten Nunukan</option>
+                                        <option value='16R04'>Kabupaten Tana Tidung</option>
+                                        <option value='16R05'>Kota Tarakan</option>
+                                                            </optgroup>
+                                <optgroup label="KEPULAUAN BANGKA BELITUNG">
+                                                                        <option value='17R01'>Kabupaten Bangka</option>
+                                        <option value='17R02'>Kabupaten Bangka Barat</option>
+                                        <option value='17R03'>Kabupaten Bangka Selatan</option>
+                                        <option value='17R04'>Kabupaten Bangka Tengah</option>
+                                        <option value='17R05'>Kabupaten Belitung</option>
+                                        <option value='17R06'>Kabupaten Belitung Timur</option>
+                                        <option value='17R07'>Kota Pangkal Pinang</option>
+                                                            </optgroup>
+                                <optgroup label="KEPULAUAN RIAU">
+                                                                        <option value='18R01'>Kabupaten Bintan</option>
+                                        <option value='18R02'>Kabupaten Karimun</option>
+                                        <option value='18R03'>Kabupaten Kepulauan Anambas</option>
+                                        <option value='18R04'>Kabupaten Lingga</option>
+                                        <option value='18R05'>Kabupaten Natuna</option>
+                                        <option value='18R06'>Kota Batam</option>
+                                        <option value='18R07'>Kota Tanjung Pinang</option>
+                                                            </optgroup>
+                                <optgroup label="LAMPUNG">
+                                                                        <option value='19R04'>Kabupaten Lampung Barat</option>
+                                        <option value='19R03'>Kabupaten Lampung Selatan</option>
+                                        <option value='19R01'>Kabupaten Lampung Tengah</option>
+                                        <option value='19R05'>Kabupaten Lampung Timur</option>
+                                        <option value='19R02'>Kabupaten Lampung Utara</option>
+                                        <option value='19R06'>Kabupaten Mesuji</option>
+                                        <option value='19R07'>Kabupaten Pesawaran</option>
+                                        <option value='19R08'>Kabupaten Pesisir Barat</option>
+                                        <option value='19R09'>Kabupaten Pringsewu</option>
+                                        <option value='19R12'>Kabupaten Tanggamus</option>
+                                        <option value='19R10'>Kabupaten Tulang Bawang</option>
+                                        <option value='19R11'>Kabupaten Tulang Bawang Barat</option>
+                                        <option value='19R13'>Kabupaten Way Kanan</option>
+                                        <option value='19R14'>Kota Bandar Lampung</option>
+                                        <option value='19R15'>Kota Metro</option>
+                                                            </optgroup>
+                                <optgroup label="MALUKU">
+                                                                        <option value='20R01'>Kabupaten Buru</option>
+                                        <option value='20R02'>Kabupaten Buru Selatan</option>
+                                        <option value='20R03'>Kabupaten Kepulauan Aru</option>
+                                        <option value='20R04'>Kabupaten Maluku Barat Daya</option>
+                                        <option value='20R05'>Kabupaten Maluku Tengah</option>
+                                        <option value='20R06'>Kabupaten Maluku Tenggara</option>
+                                        <option value='20R07'>Kabupaten Maluku Tenggara Barat</option>
+                                        <option value='20R08'>Kabupaten Seram Bagian Barat</option>
+                                        <option value='20R09'>Kabupaten Seram Bagian Timur</option>
+                                        <option value='20R10'>Kota Ambon</option>
+                                        <option value='20R11'>Kota Tual</option>
+                                                            </optgroup>
+                                <optgroup label="MALUKU UTARA">
+                                                                        <option value='21R01'>Kabupaten Halmahera Barat</option>
+                                        <option value='21R04'>Kabupaten Halmahera Selatan</option>
+                                        <option value='21R02'>Kabupaten Halmahera Tengah</option>
+                                        <option value='21R06'>Kabupaten Halmahera Timur</option>
+                                        <option value='21R03'>Kabupaten Halmahera Utara</option>
+                                        <option value='21R05'>Kabupaten Kepulauan Sula</option>
+                                        <option value='21R07'>Kabupaten Pulau Morotai</option>
+                                        <option value='21R08'>Kabupaten Pulau Taliabu</option>
+                                        <option value='21R09'>Kota Ternate</option>
+                                        <option value='21R10'>Kota Tidore Kepulauan</option>
+                                                            </optgroup>
+                                <optgroup label="NUSA TENGGARA BARAT">
+                                                                        <option value='22R01'>Kabupaten Bima</option>
+                                        <option value='22R02'>Kabupaten Dompu</option>
+                                        <option value='22R03'>Kabupaten Lombok Barat</option>
+                                        <option value='22R04'>Kabupaten Lombok Tengah</option>
+                                        <option value='22R05'>Kabupaten Lombok Timur</option>
+                                        <option value='22R06'>Kabupaten Lombok Utara</option>
+                                        <option value='22R07'>Kabupaten Sumbawa</option>
+                                        <option value='22R08'>Kabupaten Sumbawa Barat</option>
+                                        <option value='22R09'>Kota Bima</option>
+                                        <option value='22R10'>Kota Mataram</option>
+                                                            </optgroup>
+                                <optgroup label="NUSA TENGGARA TIMUR">
+                                                                        <option value='23R01'>Kabupaten Alor</option>
+                                        <option value='23R02'>Kabupaten Belu</option>
+                                        <option value='23R03'>Kabupaten Ende</option>
+                                        <option value='23R04'>Kabupaten Flores Timur</option>
+                                        <option value='23R05'>Kabupaten Kupang</option>
+                                        <option value='23R06'>Kabupaten Lembata</option>
+                                        <option value='23R07'>Kabupaten Malaka</option>
+                                        <option value='23R08'>Kabupaten Manggarai</option>
+                                        <option value='23R09'>Kabupaten Manggarai Barat</option>
+                                        <option value='23R10'>Kabupaten Manggarai Timur</option>
+                                        <option value='23R12'>Kabupaten Nagekeo</option>
+                                        <option value='23R11'>Kabupaten Ngada</option>
+                                        <option value='23R13'>Kabupaten Rote Ndao</option>
+                                        <option value='23R14'>Kabupaten Sabu Raijua</option>
+                                        <option value='23R15'>Kabupaten Sikka</option>
+                                        <option value='23R16'>Kabupaten Sumba Barat</option>
+                                        <option value='23R17'>Kabupaten Sumba Barat Daya</option>
+                                        <option value='23R18'>Kabupaten Sumba Tengah</option>
+                                        <option value='23R19'>Kabupaten Sumba Timur</option>
+                                        <option value='23R20'>Kabupaten Timor Tengah Selatan</option>
+                                        <option value='23R21'>Kabupaten Timor Tengah Utara</option>
+                                        <option value='23R22'>Kota Kupang</option>
+                                                            </optgroup>
+                                <optgroup label="PAPUA">
+                                                                        <option value='24R01'>Kabupaten Asmat</option>
+                                        <option value='24R02'>Kabupaten Biak Numfor</option>
+                                        <option value='24R03'>Kabupaten Boven Digoel</option>
+                                        <option value='24R04'>Kabupaten Deiyai</option>
+                                        <option value='24R05'>Kabupaten Dogiyai</option>
+                                        <option value='24R06'>Kabupaten Intan Jaya</option>
+                                        <option value='24R07'>Kabupaten Jayapura</option>
+                                        <option value='24R08'>Kabupaten Jayawijaya</option>
+                                        <option value='24R09'>Kabupaten Keerom</option>
+                                        <option value='24R10'>Kabupaten Kepulauan Yapen</option>
+                                        <option value='24R11'>Kabupaten Lanny Jaya</option>
+                                        <option value='24R12'>Kabupaten Mamberamo Raya</option>
+                                        <option value='24R13'>Kabupaten Mamberamo Tengah</option>
+                                        <option value='24R14'>Kabupaten Mappi</option>
+                                        <option value='24R15'>Kabupaten Merauke</option>
+                                        <option value='24R16'>Kabupaten Mimika</option>
+                                        <option value='24R17'>Kabupaten Nabire</option>
+                                        <option value='24R18'>Kabupaten Nduga</option>
+                                        <option value='24R19'>Kabupaten Paniai</option>
+                                        <option value='24R20'>Kabupaten Pegunungan Bintang</option>
+                                        <option value='24R21'>Kabupaten Puncak</option>
+                                        <option value='24R22'>Kabupaten Puncak Jaya</option>
+                                        <option value='24R23'>Kabupaten Sarmi</option>
+                                        <option value='24R24'>Kabupaten Supiori</option>
+                                        <option value='24R25'>Kabupaten Tolikara</option>
+                                        <option value='24R26'>Kabupaten Waropen</option>
+                                        <option value='24R27'>Kabupaten Yahukimo</option>
+                                        <option value='24R28'>Kabupaten Yalimo</option>
+                                        <option value='24R29'>Kota Jayapura</option>
+                                                            </optgroup>
+                                <optgroup label="PAPUA BARAT">
+                                                                        <option value='25R01'>Kabupaten Fakfak</option>
+                                        <option value='25R02'>Kabupaten Kaimana</option>
+                                        <option value='25R03'>Kabupaten Manokwari</option>
+                                        <option value='25R04'>Kabupaten Manokwari Selatan</option>
+                                        <option value='25R05'>Kabupaten Maybrat</option>
+                                        <option value='25R06'>Kabupaten Pegunungan Arfak</option>
+                                        <option value='25R07'>Kabupaten Raja Ampat</option>
+                                        <option value='25R08'>Kabupaten Sorong</option>
+                                        <option value='25R09'>Kabupaten Sorong Selatan</option>
+                                        <option value='25R10'>Kabupaten Tambrauw</option>
+                                        <option value='25R11'>Kabupaten Teluk Bintuni</option>
+                                        <option value='25R12'>Kabupaten Teluk Wondama</option>
+                                        <option value='25R13'>Kota Sorong</option>
+                                                            </optgroup>
+                                <optgroup label="RIAU">
+                                                                        <option value='26R01'>Kabupaten Bengkalis</option>
+                                        <option value='26R02'>Kabupaten Indragiri Hilir</option>
+                                        <option value='26R03'>Kabupaten Indragiri Hulu</option>
+                                        <option value='26R04'>Kabupaten Kampar</option>
+                                        <option value='26R05'>Kabupaten Kepulauan Meranti</option>
+                                        <option value='26R06'>Kabupaten Kuantan Singingi</option>
+                                        <option value='26R07'>Kabupaten Pelalawan</option>
+                                        <option value='26R08'>Kabupaten Rokan Hilir</option>
+                                        <option value='26R09'>Kabupaten Rokan Hulu</option>
+                                        <option value='26R10'>Kabupaten Siak</option>
+                                        <option value='26R11'>Kota Dumai</option>
+                                        <option value='26R12'>Kota Pekanbaru</option>
+                                                            </optgroup>
+                                <optgroup label="SULAWESI BARAT">
+                                                                        <option value='27R01'>Kabupaten Majene</option>
+                                        <option value='27R02'>Kabupaten Mamasa</option>
+                                        <option value='27R03'>Kabupaten Mamuju</option>
+                                        <option value='27R04'>Kabupaten Mamuju Tengah</option>
+                                        <option value='27R05'>Kabupaten Mamuju Utara</option>
+                                        <option value='27R06'>Kabupaten Polewali Mandar</option>
+                                                            </optgroup>
+                                <optgroup label="SULAWESI SELATAN">
+                                                                        <option value='28R01'>Kabupaten Bantaeng</option>
+                                        <option value='28R02'>Kabupaten Barru</option>
+                                        <option value='28R03'>Kabupaten Bone</option>
+                                        <option value='28R04'>Kabupaten Bulukumba</option>
+                                        <option value='28R05'>Kabupaten Enrekang</option>
+                                        <option value='28R06'>Kabupaten Gowa</option>
+                                        <option value='28R07'>Kabupaten Jeneponto</option>
+                                        <option value='28R08'>Kabupaten Kepulauan Selayar</option>
+                                        <option value='28R09'>Kabupaten Luwu</option>
+                                        <option value='28R10'>Kabupaten Luwu Timur</option>
+                                        <option value='28R11'>Kabupaten Luwu Utara</option>
+                                        <option value='28R12'>Kabupaten Maros</option>
+                                        <option value='28R13'>Kabupaten Pangkajene dan Kepulauan</option>
+                                        <option value='28R14'>Kabupaten Pinrang</option>
+                                        <option value='28R15'>Kabupaten Sidenreng Rappang</option>
+                                        <option value='28R16'>Kabupaten Sinjai</option>
+                                        <option value='28R17'>Kabupaten Soppeng</option>
+                                        <option value='28R18'>Kabupaten Takalar</option>
+                                        <option value='28R19'>Kabupaten Tana Toraja</option>
+                                        <option value='28R20'>Kabupaten Toraja Utara</option>
+                                        <option value='28R21'>Kabupaten Wajo</option>
+                                        <option value='28R22'>Kota Makassar</option>
+                                        <option value='28R23'>Kota Palopo</option>
+                                        <option value='28R24'>Kota Parepare</option>
+                                                            </optgroup>
+                                <optgroup label="SULAWESI TENGAH">
+                                                                        <option value='29R01'>Kabupaten Banggai</option>
+                                        <option value='29R02'>Kabupaten Banggai Kepulauan</option>
+                                        <option value='29R03'>Kabupaten Banggai Laut</option>
+                                        <option value='29R04'>Kabupaten Buol</option>
+                                        <option value='29R05'>Kabupaten Donggala</option>
+                                        <option value='29R06'>Kabupaten Morowali</option>
+                                        <option value='29R07'>Kabupaten Morowali Utara</option>
+                                        <option value='29R08'>Kabupaten Parigi Moutong</option>
+                                        <option value='29R09'>Kabupaten Poso</option>
+                                        <option value='29R10'>Kabupaten Sigi</option>
+                                        <option value='29R11'>Kabupaten Tojo Una-Una</option>
+                                        <option value='29R12'>Kabupaten Toli-Toli</option>
+                                        <option value='29R13'>Kota Palu</option>
+                                                            </optgroup>
+                                <optgroup label="SULAWESI TENGGARA">
+                                                                        <option value='30R01'>Kabupaten Bombana</option>
+                                        <option value='30R02'>Kabupaten Buton</option>
+                                        <option value='30R03'>Kabupaten Buton Selatan</option>
+                                        <option value='30R04'>Kabupaten Buton Tengah</option>
+                                        <option value='30R05'>Kabupaten Buton Utara</option>
+                                        <option value='30R06'>Kabupaten Kolaka</option>
+                                        <option value='30R07'>Kabupaten Kolaka Timur</option>
+                                        <option value='30R08'>Kabupaten Kolaka Utara</option>
+                                        <option value='30R09'>Kabupaten Konawe</option>
+                                        <option value='30R10'>Kabupaten Konawe Kepulauan</option>
+                                        <option value='30R11'>Kabupaten Konawe Selatan</option>
+                                        <option value='30R12'>Kabupaten Konawe Utara</option>
+                                        <option value='30R13'>Kabupaten Muna</option>
+                                        <option value='30R14'>Kabupaten Muna Barat</option>
+                                        <option value='30R15'>Kabupaten Wakatobi</option>
+                                        <option value='30R16'>Kota Bau-Bau</option>
+                                        <option value='30R17'>Kota Kendari</option>
+                                                            </optgroup>
+                                <optgroup label="SULAWESI UTARA">
+                                                                        <option value='31R01'>Kabupaten Bolaang Mongondow</option>
+                                        <option value='31R02'>Kabupaten Bolaang Mongondow Selatan</option>
+                                        <option value='31R03'>Kabupaten Bolaang Mongondow Timur</option>
+                                        <option value='31R04'>Kabupaten Bolaang Mongondow Utara</option>
+                                        <option value='31R05'>Kabupaten Kepulauan Sangihe</option>
+                                        <option value='31R06'>Kabupaten Kepulauan Siau Tagulandang Biaro</option>
+                                        <option value='31R07'>Kabupaten Kepulauan Talaud</option>
+                                        <option value='31R08'>Kabupaten Minahasa</option>
+                                        <option value='31R09'>Kabupaten Minahasa Selatan</option>
+                                        <option value='31R10'>Kabupaten Minahasa Tenggara</option>
+                                        <option value='31R11'>Kabupaten Minahasa Utara</option>
+                                        <option value='31R12'>Kota Bitung</option>
+                                        <option value='31R13'>Kota Kotamobagu</option>
+                                        <option value='31R14'>Kota Manado</option>
+                                        <option value='31R15'>Kota Tomohon</option>
+                                                            </optgroup>
+                                <optgroup label="SUMATERA BARAT">
+                                                                        <option value='32R01'>Kabupaten Agam</option>
+                                        <option value='32R02'>Kabupaten Dharmasraya</option>
+                                        <option value='32R03'>Kabupaten Kepulauan Mentawai</option>
+                                        <option value='32R04'>Kabupaten Lima Puluh Kota</option>
+                                        <option value='32R05'>Kabupaten Padang Pariaman</option>
+                                        <option value='32R06'>Kabupaten Pasaman</option>
+                                        <option value='32R07'>Kabupaten Pasaman Barat</option>
+                                        <option value='32R08'>Kabupaten Pesisir Selatan</option>
+                                        <option value='32R09'>Kabupaten Sijunjung</option>
+                                        <option value='32R10'>Kabupaten Solok</option>
+                                        <option value='32R11'>Kabupaten Solok Selatan</option>
+                                        <option value='32R12'>Kabupaten Tanah Datar</option>
+                                        <option value='32R13'>Kota Bukittinggi</option>
+                                        <option value='32R14'>Kota Padang</option>
+                                        <option value='32R15'>Kota Padangpanjang</option>
+                                        <option value='32R16'>Kota Pariaman</option>
+                                        <option value='32R17'>Kota Payakumbuh</option>
+                                        <option value='32R18'>Kota Sawahlunto</option>
+                                        <option value='32R19'>Kota Solok</option>
+                                                            </optgroup>
+                                <optgroup label="SUMATERA SELATAN">
+                                                                        <option value='33R01'>Kabupaten Banyuasin</option>
+                                        <option value='33R02'>Kabupaten Empat Lawang</option>
+                                        <option value='33R03'>Kabupaten Lahat</option>
+                                        <option value='33R04'>Kabupaten Muara Enim</option>
+                                        <option value='33R05'>Kabupaten Musi Banyuasin</option>
+                                        <option value='33R06'>Kabupaten Musi Rawas</option>
+                                        <option value='33R07'>Kabupaten Musi Rawas Utara</option>
+                                        <option value='33R08'>Kabupaten Ogan Ilir</option>
+                                        <option value='33R09'>Kabupaten Ogan Komering Ilir</option>
+                                        <option value='33R10'>Kabupaten Ogan Komering Ulu</option>
+                                        <option value='33R11'>Kabupaten Ogan Komering Ulu Selatan</option>
+                                        <option value='33R12'>Kabupaten Ogan Komering Ulu Timur</option>
+                                        <option value='33R13'>Kabupaten Penukal Abab Lematang Ilir</option>
+                                        <option value='33R14'>Kota Lubuklinggau</option>
+                                        <option value='33R15'>Kota Pagar Alam</option>
+                                        <option value='33R16'>Kota Palembang</option>
+                                        <option value='33R17'>Kota Prabumulih</option>
+                                                            </optgroup>
+                                <optgroup label="SUMATERA UTARA">
+                                                                        <option value='34R01'>Kabupaten Asahan</option>
+                                        <option value='34R02'>Kabupaten Batubara</option>
+                                        <option value='34R03'>Kabupaten Dairi</option>
+                                        <option value='34R04'>Kabupaten Deli Serdang</option>
+                                        <option value='34R05'>Kabupaten Humbang Hasundutan</option>
+                                        <option value='34R06'>Kabupaten Karo</option>
+                                        <option value='34R07'>Kabupaten Labuhanbatu</option>
+                                        <option value='34R08'>Kabupaten Labuhanbatu Selatan</option>
+                                        <option value='34R09'>Kabupaten Labuhanbatu Utara</option>
+                                        <option value='34R10'>Kabupaten Langkat</option>
+                                        <option value='34R11'>Kabupaten Mandailing Natal</option>
+                                        <option value='34R12'>Kabupaten Nias</option>
+                                        <option value='34R13'>Kabupaten Nias Barat</option>
+                                        <option value='34R14'>Kabupaten Nias Selatan</option>
+                                        <option value='34R15'>Kabupaten Nias Utara</option>
+                                        <option value='34R16'>Kabupaten Padang Lawas</option>
+                                        <option value='34R17'>Kabupaten Padang Lawas Utara</option>
+                                        <option value='34R18'>Kabupaten Pakpak Bharat</option>
+                                        <option value='34R19'>Kabupaten Samosir</option>
+                                        <option value='34R20'>Kabupaten Serdang Bedagai</option>
+                                        <option value='34R21'>Kabupaten Simalungun</option>
+                                        <option value='34R22'>Kabupaten Tapanuli Selatan</option>
+                                        <option value='34R23'>Kabupaten Tapanuli Tengah</option>
+                                        <option value='34R24'>Kabupaten Tapanuli Utara</option>
+                                        <option value='34R25'>Kabupaten Toba Samosir</option>
+                                        <option value='34R26'>Kota Binjai</option>
+                                        <option value='34R27'>Kota Gunungsitoli</option>
+                                        <option value='34R28'>Kota Medan</option>
+                                        <option value='34R29'>Kota Padangsidempuan</option>
+                                        <option value='34R30'>Kota Pematangsiantar</option>
+                                        <option value='34R31'>Kota Sibolga</option>
+                                        <option value='34R32'>Kota Tanjungbalai</option>
+                                        <option value='34R33'>Kota Tebing Tinggi</option>
+                                                            </optgroup>
+                                                </select>
+    </div>
+    <div class="form-group">
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+                            <div class="g-recaptcha" data-sitekey="6LfKkTYUAAAAALMtmjEbPJu_D5vnCTl0z71TWRpH"></div>
+                                <!-- <div class="recaptcha_api2"></div>
+                                <script src="https://www.google.com/recaptcha/api.js?onload=myCallBack&render=explicit" async defer></script>
+                                <div id="recaptcha2"></div> -->
+                            <div style="color:red; font-size: 18px; font-weight: bold; display: none"
+                                class="google_recaptcha_fail_notification">Centang Captcha dan pilih gambar yang benar</div>
+    </div>
+    <div class="form-group">
+    <button type="button" onclick="simpan_murid()" class="btn btn-warning">
+        KIRIM VOUCHER <img src="https://www.babastudio.com/slicing/assets/enter.png" class="enter-btn"/>
+    </button>
+    </div>
+        <!-- </form> -->
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="testimoni">
+  <h1 align="center">Pengalaman Belajar di Babastudio</h1>
+  <div class="container">
+    <div class="row slide-testimoni">
+              <div class="col col-sm-4 padding-40m">
+        <div class="box-testimoni">
+          <div class="row">
+            <div class="col-md-3 col-xs-3">
+              <div class="image">
+                <img src="https://www.babastudio.com/slicing/assets/pH1SmRA.png" class="img-responsive">
+              </div>
+            </div>
+            <div class="col-md-9 col-xs-9">
+              <p class="sorot">Sob Bari</p>
+              <p>
+                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i>                ~ 1 bulan lalu              </p>
+            </div>
+          </div>
+          <div class="testimoni-desc">
+            <p>“Terimakasih babastudio, telah mencetak anak saya menjadi mandiri, mempunyai uaha sendiri. Saya sebagai orang tua sangat senang dengan perkembangan anak saya. ”</p>
+          </div>
+        </div>
+      </div>
+              <div class="col col-sm-4 padding-40m">
+        <div class="box-testimoni">
+          <div class="row">
+            <div class="col-md-3 col-xs-3">
+              <div class="image">
+                <img src="https://i.imgur.com/ckcS4QP.jpg" class="img-responsive">
+              </div>
+            </div>
+            <div class="col-md-9 col-xs-9">
+              <p class="sorot">Ahmad Syibly Billy</p>
+              <p>
+                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i>                ~ 1 bulan lalu              </p>
+            </div>
+          </div>
+          <div class="testimoni-desc">
+            <p>“Babastudio sangat cocok untuk genearasi muda, apalagi di era sekarang teknologi semakin berkembang. Peluang kerja jadi lebih terbuka aplagi buat kalian yang baru lulus kuliah. Dari pada nganggur di rumah dan sambil cari kerja juga, kalian bisa coba nih tempat kursus di Babastudio di jamin kerja di sini menambah pengaaman kerja kalian, khususnya di bidang IT guys. Saya sendiri yang nggak punya basik di bidang IT mencoba buat mencari tahu apa aja yang di pelajari dan semenjaka aya belajar di sini semua jadi terasa lebih mudah. So buat kalian-kalian para kaum muda, cobain kursus di tempat ini. Tempatnya nyaman banget, muridnya banyak, alumninya juga lulusan terbaik dan cabangnya juga banyak guys, jadi kalian nggak perlu ribet. ”</p>
+          </div>
+        </div>
+      </div>
+              <div class="col col-sm-4 padding-40m">
+        <div class="box-testimoni">
+          <div class="row">
+            <div class="col-md-3 col-xs-3">
+              <div class="image">
+                <img src="https://i.imgur.com/rh4Nn2V.jpg" class="img-responsive">
+              </div>
+            </div>
+            <div class="col-md-9 col-xs-9">
+              <p class="sorot">Ayuwindy Astuti</p>
+              <p>
+                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i>                ~ 1 bulan lalu              </p>
+            </div>
+          </div>
+          <div class="testimoni-desc">
+            <p>“Tempat lesnya nyaman dan bersih, Les di Babastudio asik, materi les mudah di mengerti dengan waktu les yang flexibel dan dapat belajar di rumah dengan e-learning Babastudio system. Pengajarnya juga baik dn cepat merespond baik tatap muka atau online. ”</p>
+          </div>
+        </div>
+      </div>
+          </div>
+  </div>
+</section>
+
+<section id="lokasi">
+  <div class="container">
+  <h1 align="center">Lokasi Kampus Baba Studio</h1>
+  <p>Kamu dapat berpindah kampus sesuka hati, contohnya : di hari biasa kamu dapat memilih kampus yang dekat dengan kantor, di hari libur kamu dapat memilih kampus di dekat rumah kamu,
+karena babastudio bukan franchise, tapi di kelola oleh satu management,untuk menjamin kualitas pendidikan yang kamu peroleh. </p>
+    <div class="row slide-lokasi">
+              <div class="col-md-3">
+        <div class="image">
+          <img src="https://i.imgur.com/LT7uEjt.png">
+        </div>
+        <p>Kampus Jakarta</p>
+      </div>
+              <div class="col-md-3">
+        <div class="image">
+          <img src="https://i.imgur.com/ThG31mS.png">
+        </div>
+        <p>Kampus Tangerang</p>
+      </div>
+              <div class="col-md-3">
+        <div class="image">
+          <img src="https://i.imgur.com/vxhy2Rw.png">
+        </div>
+        <p>Kampus Bekasi</p>
+      </div>
+              <div class="col-md-3">
+        <div class="image">
+          <img src="https://i.imgur.com/j73eYAk.png">
+        </div>
+        <p>Kampus Cempaka Mas</p>
+      </div>
+          </div>
+  </div>
+</section>
+
+
+
+    <section id="footer">
+      <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+              <div class="head-foot">
+                <h5>TENTANG BABA STUDIO</h5>
+              </div>
+              <br>
+              <p class="mt-1">Berdiri sejak tahun 2003 telah memiliki lebih dari 15.000 peserta kursus dan telah berpengalaman dan dipercaya dalam menangani ratusan klien korporat dan pemerintahan. Pengalaman keberhasilan dalam dunia online adalah yang paliing utama kami berikan kepada peserta didik dan itu sangat tidak ternilai harganya. </p>
+
+            </div>
+
+            <div class="col-md-3">
+              <div class="head-foot">
+                <h5>PAKET KURSUS</h5>
+              </div>
+                <ul class="" style="margin-left: -20px;">
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket">SEMUA KURSUS</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-adobe-ilustrator">Kursus Adobe Ilustrator</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-adobe-indesign">Kursus Adobe InDesign</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-adobe-photoshop">Kursus Adobe Photoshop</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-corel-draw">Kursus Corel Draw</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-design-grafis-master-platinum">Kursus Design Grafis Master Platinum</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-flash-animasi">Kursus Flash Animasi</a></li>
+                  <!-- <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-game">Kursus Game</a></li> -->
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-html-css">Kursus HTML &amp; CSS</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-internet-marketing-master-platinum">Kursus Internet Marketing Master Platinum</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-komputer-online">Kursus Komputer Online</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-microsoft-excel">Kursus Microsoft Excel</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-microsoft-master-platinum">Kursus Microsoft Master Platinum</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-microsoft-power-point">Kursus Microsoft Power Point</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-microsoft-word">Kursus Microsoft Word</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-php-advance">Kursus PHP Advance</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-php-framework">Kursus PHP Framework</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-php-fundamental">Kursus PHP Fundamental</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-php-master-platinum">Kursus PHP Master Platinum</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-seo">Kursus SEO </a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-toko-online">Kursus Toko Online</a></li>
+                  <li><a target="_blank" href="https://www.babastudio.com/kursus-online-hybrid/paket/kursus-website-master-platinum">Kursus Website Master Platinum</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-6">
+              <div class="head-foot">
+                <b>
+                <p>COMING SOON <br>
+                    Cabang BABASTUDIO 2019 <br>
+                    BABASTUDIO (Bandung) <br>
+                    BABASTUDIO (Sentul) <br>
+                    BABASTUDIO (Puri Indah) <br>
+                    BABASTUDIO (Emporium Pluit, Jakarta Utara) <br>
+                    BABASTUDIO (Mall Kokas) <br> </p></b>
+              </div>
+              <div class="head-foot">
+                    <b> <p>Lokasi RESMI babastudio saat ini</p> </b>
+
+                    <ul style="margin-left: -25px;">
+                      <li>
+                        <b> ITC Permata Hijau (Jakarta Selatan) </b>
+                        <br>
+                        <span style="font-weight: 100">
+                        Ruko Grand ITC Permata Hijau Blok Saphire No.14 - Jl. Letjen Soepeno (Arteri Permata Hijau) - Kebayoran Lama, Grogol Utara, Jakarta Selatan 12210
+                        </span>
+
+                      </li>
+                      <li>
+                        <b> Summarecon Mal Serpong (Tangerang) </b>
+                        <br>
+                        <span style="font-weight: 100">
+                        Ruko Sentra Gading Serpong blok SG-1 No. 33 Summarecon, Tangerang 15810
+                        </span>
+                      </li>
+                      <li>
+                        <b> Graha Cempaka Mas (Jakarta Pusat) </b>
+                        <br>
+                        <span style="font-weight: 100">
+                        Rukan Babastudio, Graha Cempaka Mas Blok E Nomor 2, JL Letjen. Suprapto, 10640
+                        </span>
+                      </li>
+                      <li>
+                        <b> Bekasi </b>
+                        <br>
+                        <span style="font-weight: 100">
+                        Jl. Siliwangi No. 9 Rawapanjang (Depan Kampus Bina Insani Bekasi) Bekasi 17141
+                        </span>
+                      </li>
+                      <li>
+                        <b> Telepon </b>
+                        <br>
+                        <span style="font-weight: 100">
+                        <i class="fas fa-phone"></i> (021) 5366 4008 &amp; (021) 2856 5339
+                        </span>
+                      </li>
+                                        <!-- <li>Emporium Pluit (Jakarta Utara)</li> -->
+                      <!-- <li>Klampis (Surabaya)</li> -->
+                    </ul>
+                      Babastudio TIDAK berafiliasi dengan Lembaga Kursus Manapun.
+
+              </div>
+                      </div>
+                  </div>
+        </div>
+    </section>
+
+    <div id="responsive" class="modal fade" tabindex="-1" data-width="760">
+      <div class="modal-dialog">
+        <div class="modal-content">
+                    <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h4 class="modal-title" id="myModalLabel">Cara Mendapatkan Bonus</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                          <div class="col-md-12">
+                            <strong>Item-item Bonus : </strong>
+                            <ul>
+                              <li>Membuat pertanyaan di sistem dengan benar</li>
+                              <li>Memberi Jawaban atas pertanyaan sesama student (di-LIKE oleh pemberi pertanyaan)</li>
+                              <li>Menilai Hasil Karya</li>
+                              <li>I-TIME</li>
+                            </ul>
+                            <br>
+                            <strong>Tata Cara Mendapatkan Bonus  :</strong>
+                            <ul>
+                              <li><u>Membuat Pertanyaan</u> : jika student membuat pertanyaan yang menurut instructor bagus maka mendapat bonus tambahan waktu belajar. <br>
+                    (2 pertanyaan = 1 hari) maximal mendapatkan bonus hari dari tipe ini adalah 5 Hari / 10 pertanyaan yang di anggap bagus.
+                    </li>
+                              <li><u>Menjawab Pertanyaan</u> : Jika student menjawab 5 pertanyaan atas pertanyaan yang di ajukan student lain. Dengan syarat 5 jawaban yang di like oleh student (pembuat pertanyaan) maka akan mendapatkan bonus 1 hari.
+                              <br>Maximal mendapatkan bonus hari dari tipe ini adalah 5 Hari / 25 jawaban yang dianggap bagus.</li>
+
+                              <li><u>Menilai Hasil Karya Murid lain</u> : Jika student memberikan penilaian dan komentar tentang hasil karya murid lain maka student (pemberi nilai) berhak mendapatkan bonus tambahan waktu belajar.
+                              Maximal mendapatkan bonus hari dari tipe ini adalah 8 Hari / 32 penilaian (4 penilaian = 1 hari)
+                              </li>
+                              <li><u>I-Time</u> : Jika student telah  menyelesaikan rangkaian I-time sesuai dengan sistem yang di tetapkan (baca: tata cara I-Time) maka student berhak mendapatkan bonus tambahan hari. Bonus yang di dapatkan adalah mengikuti 1 x I-Time akan mendapatkan bonus 3 Hari.</li>
+                              <li><strong>Total Bonus yang dapat di miliki student adalah 30 Hari</strong></li>
+                            </ul>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+      </div>
+    </div>
+
+<script type="text/javascript" src="https://www.babastudio.com/slicing/assets/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.x.x/js/swiper.min.js"></script>
+<script type="text/javascript" src="https://www.babastudio.com/slicing/assets/slick.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="https://deplaza.id/assets/floating-whatsapp/floating-wpp.min.css?v=201910">
+  <script type="text/javascript" src="https://deplaza.id/assets/floating-whatsapp/floating-wpp.min.js?v=201910"></script>
+  <div class="floating-wpp"></div>
+
+<script type="text/javascript">
+      $(function () {
+    
+    var lazyLoadInstance = new LazyLoad({
+          elements_selector: ".lazy"
+    });
+    
+    //$('.lazy).Lazy();   
+
+          $('.floating-wpp').floatingWhatsApp({
+              phone: '6281398130236', //'62895333607909',
+              popupMessage: 'Hi, ini Rani... minat materi kursus apa? Rani ada Beasiswa Kursus 20%',
+              showPopup: true,
+              //position: 'right',
+              //autoOpen: false,
+              //autoOpenTimer: 4000,
+              message: '',
+              //headerColor: 'orange',
+              headerTitle: 'Whatsapp Chat',
+          });
+      });
+  </script>
+    <script type="text/javascript">
+
+    $('.slide-liputan').slick({
+        lazyLoad: 'ondemand',
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        autoplay: true,
+        responsive: [
+          {
+            breakpoint: 1024,
+            settings: {
+              slidesToShow: 4,
+              slidesToScroll: 1,
+            }
+          },
+          {
+            breakpoint: 800,
+            settings: {
+              slidesToShow: 3,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+      });
+
+      $('.slide-karya').slick({
+        lazyLoad: 'ondemand',
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        autoplay: true,
+        responsive: [
+          {
+            breakpoint: 1024,
+            settings: {
+              slidesToShow: 3,
+              slidesToScroll: 1,
+            }
+          },
+          {
+            breakpoint: 600,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+      });
+
+      $('.slide-learningmap').slick({
+        lazyLoad: 'ondemand',
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        autoplay: false,
+        responsive: [
+          {
+            breakpoint: 1024,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1,
+            }
+          },
+          {
+            breakpoint: 600,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+      });
+
+      $('.slide-testimoni').slick({
+        lazyLoad: 'ondemand',
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        autoplay: true,
+        responsive: [
+          {
+            breakpoint: 1024,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1,
+            }
+          },
+          {
+            breakpoint: 600,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+      });
+
+      $('.slide-lokasi').slick({
+        lazyLoad: 'ondemand',
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        autoplay: true,
+        responsive: [
+          {
+            breakpoint: 1024,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1,
+            }
+          },
+          {
+            breakpoint: 600,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+      });
+
+      $('.slide-fasilitas').slick({
+        lazyLoad: 'ondemand',
+        slidesToShow: 2,
+        slidesToScroll: 1,
+        autoplay: true,
+        responsive: [
+          {
+            breakpoint: 1024,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1,
+            }
+          },
+          {
+            breakpoint: 600,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+      });
+      $('.slide-materi').slick({
+        lazyLoad: 'ondemand',
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true
+      });
+    </script>
+
+    <script type="text/javascript">
+var baseurl = 'https://www.babastudio.com/';
+      // When the user scrolls the page, execute myFunction
+      window.onscroll = function() {myFunction()};
+
+      // Get the header
+      var header = document.getElementById("header-menu");
+
+      // Get the offset position of the navbar
+      var sticky = header.offsetTop;
+
+      // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+      function myFunction() {
+        if (window.pageYOffset > sticky) {
+          header.classList.add("sticky");
+          header.classList.add("sub-nav");
+        } else {
+          header.classList.remove("sticky");
+          header.classList.remove("sub-nav");
+        }
+      }
+      function simpan_murid()
+{
+    var namalengkap = $("#namalengkap") . val();
+    var email_add = $("#email_add") . val();
+    var telp = $("#telp") . val();
+    var tinggal = $('#tinggal option:selected') . val();
+        // var tinggal    = $('#detail_lokasi option:selected').val();
+    var materi = $('#materis option:selected') . val();
+        // var detail_lokasi  = $('#detail_lokasi option:selected').val();
+        // var detail_lokasi  = '';
+
+    if (namalengkap === '' || email_add === '' || telp === '' || tinggal === '' || materi === '') {
+        alert('Silahkan isi seluruh form.');
+        return true;
+    }
+
+    $("#tombol_save1") . hide(); //hide submit button    
+    $("#tombol_save2") . hide(); //hide submit button  
+        //$("#hide_div_submit").hide(); //hide submit button          
+        //$("#hide_div_submit").css("display","none"); 
+        //$("#hide_div_submit").css("visibility","hidden"); 
+    $("#LoadingImage") . show(); //show loading image
+    jQuery . ajax({
+        type :"POST" , // HTTP method POST or GET
+        url : baseurl + "save", //Where to make Ajax calls
+            // url: baseurl+"message/save" //Where to make Ajax calls
+        data : 'nama=' + namalengkap + '&email=' + email_add + '&telp=' + telp + '&tinggal=' + tinggal + '&materi=' + materi + '&captcha=' + grecaptcha . getResponse(), //Form variables
+        success : function (response) {                
+                
+                //alert(response);
+                //return false;
+            if (response != 'captcha fail') {
+                    // $("#tombol_save").show(); 
+                $("#LoadingImage") . hide(); //hide loading image
+                    // $("#hasil_ajax").html(response);
+                console . log(response);
+                    //closeModal();
+                window . location . replace("https://www.babastudio.com/terima-kasih");
+                $('.google_recaptcha_fail_notification') . css('display', 'none');
+            } else if (response == 'captcha fail') {
+                    //alert(response);
+                $('.google_recaptcha_fail_notification') . css('display', 'block');
+            }
+        },
+            error : function (xhr, ajaxOptions, thrownError) {
+                // $("#tombol_save").show(); //show submit button
+            $("#LoadingImage") . hide(); //hide loading image
+            alert(thrownError);
+        }
+    }
+    );
+}
+    </script>
+    <script async type="text/javascript" src="https://www.babastudio.com/assets/front_page/js/analytics_tanpa_adroll.js"></script>
+
+  <script type="text/javascript">
+  _linkedin_partner_id = "397387";
+  window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+  window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+  </script>
+  <script type="text/javascript">
+  (function(){var s = document.getElementsByTagName("script")[0];
+  var b = document.createElement("script");
+  b.type = "text/javascript";b.async = true;
+  b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+  s.parentNode.insertBefore(b, s);})();
+  </script>
+  <noscript>
+  <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=397387&fmt=gif" />
+  </noscript>
+  
+  <!-- Facebook Pixel Code -->
+    <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1464164483840659&ev=PageView&noscript=1"
+  /></noscript>
+  </body>
+</html>
+
